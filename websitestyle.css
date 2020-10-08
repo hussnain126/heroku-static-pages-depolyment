@@ -1,0 +1,82 @@
+.bgimg{
+    background-image:url('annie-spratt-hCb3lIB8L8E-unsplash.jpg');
+    background-size:100% 100%;
+    background-attachment: fixed;
+    height:650px;
+    width:100%;
+}
+.hearderset{
+    box-sizing: border-box;
+}
+.hearderset h2{
+    font-size: 42px;
+}
+.hearderset h1{
+    font-size: 72px;
+}
+.oursersvice{
+    padding:100px 0px 60px;
+    height: 500px;
+
+}
+.oursersvice h1{
+font-size: 50px;
+font-weight:bold;
+
+}
+
+.rowsetting{
+margin-top: 80px 0px !important;
+
+}
+
+.imgsetting{
+border-radius: 50%;
+height: 100px;
+width: 100px;
+}
+.fa-shopping-cart{
+margin-top: 30px;
+
+}
+.fa-desktop{
+
+margin-top: 30px;
+
+}
+.fa-shield{
+ margin-top: 30px;
+
+}
+.rowsetting p{
+padding: 10px;   
+color:86c757d!important;
+}
+.rowsetting h2{
+    margin-top: 20px;
+    font-weight: bold;
+    font-size:30px;
+} 
+.portfolio{
+    height:700px;
+    width: 100% ;
+    padding: 100px 0px 50px;
+}
+.portfolio h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.card{
+    margin-top: 40px;
+}
+
+.ourteam h1{
+    font-size: 50px;
+    font-weight: bold;
+
+}
+.teamsetting{
+    margin-top:50px;
+}
+
